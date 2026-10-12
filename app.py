@@ -35,6 +35,10 @@ def cambio_laura():
     #este es el cambio que hice
     return "laura"    
 
+
+def cambio_local_laura():
+    #este es el cambio que hice
+    return "laura local"    
 # Cargar datos
 data = load_data()
 
